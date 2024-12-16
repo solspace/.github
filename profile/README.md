@@ -1,6 +1,6 @@
 # Solspace
 
-Transforming complex websites into reliable, revenue-driving assets. Our plugin offerings and solutions push the boundaries of [Craft CMS](github.com/craftcms) and [ExpressionEngine](github.com/expressionengine) with creative thinking to help you create ambitious websites.
+Transforming complex websites into reliable, revenue-driving assets. Our plugin offerings and solutions push the boundaries of [Craft CMS](https://github.com/craftcms) and [ExpressionEngine](https://github.com/expressionengine) with creative thinking to help you create ambitious websites.
 
 ## Plugins for Craft CMS
 
